@@ -48,7 +48,10 @@ nav a{ /*nav navigation a a, de link, vou trabalhar só no link*/
     object-fit: cover; /*efeito de sobrepor*/
     display: block;
 }
-
+.legenda{
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
 
 
 
